@@ -22,10 +22,6 @@ Application Developer Apprentice @ Deutsche Börse · previously <a href="https:
 <a href="https://x.com/keanuklestil#gh-dark-mode-only"><img src="img/x-light.svg" alt="X"></a>
 <a href="https://github.com/00quasr#gh-dark-mode-only"><img src="img/github-light.svg" alt="GitHub"></a>
 
-<br><br>
-
-<sub>TypeScript · Rust · Go · Python · C++ · Next.js · Supabase · PostgreSQL · Redis · Docker · Tailwind</sub>
-
 </div>
 
 <br>
