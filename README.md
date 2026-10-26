@@ -4,18 +4,6 @@ Full-stack developer in Frankfurt, building AI agent infrastructure
 <br>
 Application Developer Apprentice @ <a href="https://www.deutsche-boerse.com/">Deutsche Börse</a> · previously <a href="https://www.masumi.network/">Masumi</a> &amp; <a href="https://github.com/utxo-AG">utxo AG</a>
 
-<br><br>
-
-<!-- Light mode icons -->
-<a href="https://www.linkedin.com/in/keanu-k-538503220/#gh-light-mode-only"><img src="img/linkedin.svg" alt="LinkedIn"></a>
-<a href="https://portfolio-psi-mauve-89.vercel.app/#gh-light-mode-only"><img src="img/web.svg" alt="Website"></a>
-<a href="https://x.com/keanuklestil#gh-light-mode-only"><img src="img/x.svg" alt="X"></a>
-
-<!-- Dark mode icons -->
-<a href="https://www.linkedin.com/in/keanu-k-538503220/#gh-dark-mode-only"><img src="img/linkedin-light.svg" alt="LinkedIn"></a>
-<a href="https://portfolio-psi-mauve-89.vercel.app/#gh-dark-mode-only"><img src="img/web-light.svg" alt="Website"></a>
-<a href="https://x.com/keanuklestil#gh-dark-mode-only"><img src="img/x-light.svg" alt="X"></a>
-
 </div>
 
 <br>
