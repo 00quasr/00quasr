@@ -1,7 +1,5 @@
 <div align="center">
 
-<h3>Deutsche Börse by day. AI agents by night.</h3>
-
 Full-stack developer in Frankfurt, building AI agent infrastructure
 <br>
 Application Developer Apprentice @ Deutsche Börse · previously <a href="https://www.masumi.network/">Masumi</a> &amp; <a href="https://github.com/utxo-AG">utxo AG</a>
