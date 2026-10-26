@@ -8,8 +8,6 @@ Application Developer Apprentice @ <a href="https://www.deutsche-boerse.com/">De
 
 <br>
 
-_Full-stack developer building AI agent infrastructure: identity, configuration, reputation, and payments for agents that do real work._
-
 I'm an Application Developer apprentice at Deutsche Börse in Frankfurt. Before that I worked on AI agent infrastructure and payments on Cardano at Masumi, and won $500 at the Global Agent Hackathon with an agentic NFT minting agent. In my own time I build Rust and TypeScript tools for agents, terminal UIs for workflow engines, and platforms for the electronic music scene.
 
 ## Current Projects
