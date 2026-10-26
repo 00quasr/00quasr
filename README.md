@@ -1,10 +1,10 @@
 <div align="center">
 
-<h3><samp>Deutsche Börse by day. AI agents by night.</samp></h3>
+<h3>Deutsche Börse by day. AI agents by night.</h3>
 
-<samp>Full-stack developer in Frankfurt, building AI agent infrastructure</samp>
+Full-stack developer in Frankfurt, building AI agent infrastructure
 <br>
-<samp>Application Developer Apprentice @ Deutsche Börse · previously <a href="https://www.masumi.network/">Masumi</a> &amp; <a href="https://github.com/utxo-AG">utxo AG</a></samp>
+Application Developer Apprentice @ Deutsche Börse · previously <a href="https://www.masumi.network/">Masumi</a> &amp; <a href="https://github.com/utxo-AG">utxo AG</a>
 
 <br><br>
 
@@ -24,10 +24,7 @@
 
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,rust,go,py,cpp,nextjs,supabase,postgres,redis,docker,tailwind&theme=dark">
-  <img src="https://skillicons.dev/icons?i=ts,rust,go,py,cpp,nextjs,supabase,postgres,redis,docker,tailwind&theme=light" alt="TypeScript, Rust, Go, Python, C++, Next.js, Supabase, PostgreSQL, Redis, Docker, Tailwind">
-</picture>
+<sub>TypeScript · Rust · Go · Python · C++ · Next.js · Supabase · PostgreSQL · Redis · Docker · Tailwind</sub>
 
 </div>
 
