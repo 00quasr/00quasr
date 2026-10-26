@@ -1,60 +1,41 @@
 <div align="center">
 
-  <h3>
-    <samp><strong>Application development at Deutsche Börse by day. AI agent infrastructure and techno by night.</strong></samp>
-  </h3>
+<h3><samp>Deutsche Börse by day. AI agents by night.</samp></h3>
 
-  <p>
-    <samp>
-      <strong>Full-stack developer</strong>, working in: <br>
-      <strong><a href="https://www.rust-lang.org/">Rust</a></strong>,
-      <strong><a href="https://www.typescriptlang.org/">TypeScript</a></strong>,
-      <strong><a href="https://go.dev/">Go</a></strong>,
-      <strong><a href="https://nextjs.org/">Next.js</a></strong>,
-      <strong><a href="https://camunda.com/">Camunda 8</a></strong>, and
-      <strong><a href="https://www.masumi.network/">agent payments</a></strong>.
-    </samp>
-  </p>
+<samp>Full-stack developer in Frankfurt, building AI agent infrastructure</samp>
+<br>
+<samp>Application Developer Apprentice @ Deutsche Börse · previously <a href="https://www.masumi.network/">Masumi</a> &amp; <a href="https://github.com/utxo-AG">utxo AG</a></samp>
 
-  <h4>
-    <samp>@00quasr</samp>
-  </h4>
+<br><br>
 
-  <!-- Light mode icons -->
-  <a href="https://www.linkedin.com/in/keanu-k-538503220/#gh-light-mode-only"><img src="img/linkedin.svg" alt="LinkedIn"></a>
-  <a href="https://portfolio-psi-mauve-89.vercel.app/#gh-light-mode-only"><img src="img/web.svg" alt="Website"></a>
-  <a href="mailto:hello@klestil.de#gh-light-mode-only"><img src="img/mail.svg" alt="Email"></a>
-  <a href="https://x.com/keanuklestil#gh-light-mode-only"><img src="img/x.svg" alt="X"></a>
-  <a href="https://github.com/00quasr#gh-light-mode-only"><img src="img/github.svg" alt="GitHub"></a>
+<!-- Light mode icons -->
+<a href="https://www.linkedin.com/in/keanu-k-538503220/#gh-light-mode-only"><img src="img/linkedin.svg" alt="LinkedIn"></a>
+<a href="https://portfolio-psi-mauve-89.vercel.app/#gh-light-mode-only"><img src="img/web.svg" alt="Website"></a>
+<a href="mailto:hello@klestil.de#gh-light-mode-only"><img src="img/mail.svg" alt="Email"></a>
+<a href="https://x.com/keanuklestil#gh-light-mode-only"><img src="img/x.svg" alt="X"></a>
+<a href="https://github.com/00quasr#gh-light-mode-only"><img src="img/github.svg" alt="GitHub"></a>
 
-  <!-- Dark mode icons -->
-  <a href="https://www.linkedin.com/in/keanu-k-538503220/#gh-dark-mode-only"><img src="img/linkedin-light.svg" alt="LinkedIn"></a>
-  <a href="https://portfolio-psi-mauve-89.vercel.app/#gh-dark-mode-only"><img src="img/web-light.svg" alt="Website"></a>
-  <a href="mailto:hello@klestil.de#gh-dark-mode-only"><img src="img/mail-light.svg" alt="Email"></a>
-  <a href="https://x.com/keanuklestil#gh-dark-mode-only"><img src="img/x-light.svg" alt="X"></a>
-  <a href="https://github.com/00quasr#gh-dark-mode-only"><img src="img/github-light.svg" alt="GitHub"></a>
+<!-- Dark mode icons -->
+<a href="https://www.linkedin.com/in/keanu-k-538503220/#gh-dark-mode-only"><img src="img/linkedin-light.svg" alt="LinkedIn"></a>
+<a href="https://portfolio-psi-mauve-89.vercel.app/#gh-dark-mode-only"><img src="img/web-light.svg" alt="Website"></a>
+<a href="mailto:hello@klestil.de#gh-dark-mode-only"><img src="img/mail-light.svg" alt="Email"></a>
+<a href="https://x.com/keanuklestil#gh-dark-mode-only"><img src="img/x-light.svg" alt="X"></a>
+<a href="https://github.com/00quasr#gh-dark-mode-only"><img src="img/github-light.svg" alt="GitHub"></a>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,rust,go,py,cpp,nextjs,supabase,postgres,redis,docker,tailwind&theme=dark">
+  <img src="https://skillicons.dev/icons?i=ts,rust,go,py,cpp,nextjs,supabase,postgres,redis,docker,tailwind&theme=light" alt="TypeScript, Rust, Go, Python, C++, Next.js, Supabase, PostgreSQL, Redis, Docker, Tailwind">
+</picture>
 
 </div>
 
-**Frankfurt, Germany** | **Application Developer Apprentice @ Deutsche Börse** | **Previously @ [Masumi](https://www.masumi.network/)**
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Camunda](https://img.shields.io/badge/-Camunda-FC5D0D?style=flat-square&logo=camunda&logoColor=white)
-![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+<br>
 
 _Full-stack developer building AI agent infrastructure: identity, configuration, reputation, and payments for agents that do real work._
 
-I'm an Application Developer apprentice at Deutsche Börse in Frankfurt. Before that I worked on AI agent infrastructure and payments on Cardano at Masumi, and won $500 at the Global Agent Hackathon with an agentic NFT minting agent. In my own time I build Rust and TypeScript tools for agents, terminal UIs for workflow engines, and software for the techno scene I produce for.
+I'm an Application Developer apprentice at Deutsche Börse in Frankfurt. Before that I worked on AI agent infrastructure and payments on Cardano at Masumi, and won $500 at the Global Agent Hackathon with an agentic NFT minting agent. In my own time I build Rust and TypeScript tools for agents, terminal UIs for workflow engines, and platforms for the electronic music scene.
 
 ## Current Projects
 
@@ -97,4 +78,4 @@ I'm an Application Developer apprentice at Deutsche Börse in Frankfurt. Before 
 - **Agent infrastructure** - Identity, permissions, configuration, reputation, and payments for AI agents
 - **Full-stack platforms** - Next.js, Supabase, PostgreSQL, and Redis, with Rust (Axum) where it needs to be fast
 - **Workflow tooling** - Terminal UIs and developer tools for Camunda 8 and Zeebe
-- **Music** - Hypnotic techno in Ableton Live, and software for the scene
+- **Music tech** - Platforms for artists, labels, and venues in electronic music
