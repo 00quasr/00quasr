@@ -2,7 +2,7 @@
 
 Full-stack developer in Frankfurt, building AI agent infrastructure
 <br>
-Application Developer Apprentice @ Deutsche Börse · previously <a href="https://www.masumi.network/">Masumi</a> &amp; <a href="https://github.com/utxo-AG">utxo AG</a>
+Application Developer Apprentice @ <a href="https://www.deutsche-boerse.com/">Deutsche Börse</a> · previously <a href="https://www.masumi.network/">Masumi</a> &amp; <a href="https://github.com/utxo-AG">utxo AG</a>
 
 <br><br>
 
@@ -56,8 +56,8 @@ I'm an Application Developer apprentice at Deutsche Börse in Frankfurt. Before 
 
 ## Experience
 
-- **Deutsche Börse** - Application Developer Apprentice (current)
-- **Masumi** - AI agent infrastructure and payments on Cardano
+- **[Deutsche Börse](https://www.deutsche-boerse.com/)** - Application Developer Apprentice (current)
+- **[Masumi](https://www.masumi.network/)** - AI agent infrastructure and payments on Cardano
 - **[utxo AG](https://github.com/utxo-AG)** - Building AI agents
 
 ## Focus
