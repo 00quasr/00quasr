@@ -63,6 +63,7 @@ I'm an Application Developer apprentice at Deutsche Börse in Frankfurt. Before 
 - [hayaku](https://github.com/00quasr/hayaku) ([live](https://hayaku-puce.vercel.app)) - Developer typing trainer with spaced repetition for git commands, terminal workflows, React patterns, and AI prompts
 - [actant.io](https://github.com/00quasr/actant.io) ([live](https://actant-io.vercel.app)) - Visual config builder for AI coding agents: rules files, permissions, and MCP server definitions
 - [drift](https://github.com/00quasr/drift) - Electronic music platform to discover, rate, and manage venues, events, and artist profiles
+- [Zankyo](https://zankyo.app) - Producer-first demo CRM for techno and electronic music
 
 ### Agent Infrastructure
 
