@@ -1,6 +1,5 @@
 <div align="center">
 
-Full-stack developer in Frankfurt, building AI agent infrastructure
 <br>
 Application Developer Apprentice @ <a href="https://www.deutsche-boerse.com/">Deutsche Börse</a> · previously <a href="https://www.masumi.network/">Masumi</a> &amp; <a href="https://github.com/utxo-AG">utxo AG</a>
 
